@@ -1,4 +1,4 @@
-# Interactive Solana NFTs
+# HTML NFTs on Solana
 Patterns, guidelines, and example HTML projects with a focus in creating interactive NFT art.
 
 The inspiration behind this project comes from wanting the ability to generate interactive NFT artworks and experiences on [Solana](https://solana.com/)/[Exchange.art](https://exchange.art/). I want to share my findings in hopes of inspiring other creators as well.
